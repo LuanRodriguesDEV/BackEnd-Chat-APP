@@ -2596,11 +2596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Luan\\Desktop\\SignalRTest\\SignalRTest\\SignalRTest.csproj",
+      "projectUniqueName": "C:\\Users\\Luan\\Documents\\GitHub\\BackEnd-Chat-APP\\SignalRTest\\SignalRTest.csproj",
       "projectName": "SignalRTest",
-      "projectPath": "C:\\Users\\Luan\\Desktop\\SignalRTest\\SignalRTest\\SignalRTest.csproj",
+      "projectPath": "C:\\Users\\Luan\\Documents\\GitHub\\BackEnd-Chat-APP\\SignalRTest\\SignalRTest.csproj",
       "packagesPath": "C:\\Users\\Luan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Luan\\Desktop\\SignalRTest\\SignalRTest\\obj\\",
+      "outputPath": "C:\\Users\\Luan\\Documents\\GitHub\\BackEnd-Chat-APP\\SignalRTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luan\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d0HiDn3jeFsz7sapQHUBCaNp5xqB5aBK+R2ZzyVY+UGyGrbmHn9cA1Iqw92g2JvWn7xNA9KgmhEd0ZJiRaqHNw==",
+  "dgSpecHash": "BThdNEnvucdum/mzBhKQJzxsF2AvYe9o40Uq4Tvs0sUERCMjxXxbjPW+sRpesZCPli5h6tbh9zZIzYaCZ+bhow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luan\\Desktop\\SignalRTest\\SignalRTest\\SignalRTest.csproj",
+  "projectFilePath": "C:\\Users\\Luan\\Documents\\GitHub\\BackEnd-Chat-APP\\SignalRTest\\SignalRTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Luan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

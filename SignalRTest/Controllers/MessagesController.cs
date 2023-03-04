@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SignalRTest.DTOS;
 using SignalRTest.Model;
 using SignalRTest.Services;
 using System;
@@ -18,10 +19,11 @@ namespace SignalRTest.Controllers
             this.messagesService = messagesService;
         }
         [HttpPost]
-        public async Task <ActionResult<Messages>> Create(Messages message)
+        public async Task <ActionResult<Messages>> Create(MessageDTO message)
         {
             var verify = await messagesService.Create(message);
-            return verify != null ? Ok(message) : BadRequest();
+
+            return verify != null ? Ok(verify) : BadRequest();
         }
     }
 }

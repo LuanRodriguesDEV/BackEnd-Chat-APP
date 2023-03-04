@@ -15,7 +15,7 @@ namespace SignalRTest.Hubs
         {
             await Clients.All.SendAsync("SendMessage", "Ola");
         }
-        public async void SendOnline()
+        public async void Send()
         {
 
         }
